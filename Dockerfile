@@ -1,15 +1,9 @@
-FROM node:latest
+FROM nikolaik/python-nodejs:latest
 
-RUN apt update -y
-RUN apt upgrade -y
-RUN apt-get install -y --no-install-recommends \
+RUN apt-get update && \
+  apt-get install -y \
   neofetch \
-  ffmpeg \
-  wget \
-  sudo \
-  tesseract-ocr \
-  chromium \
-  imagemagick
+  rm -rf /var/lib/apt/lists/*
 
 COPY package.json .
 
