@@ -9,14 +9,6 @@ make code : Nurutomo
 clone and recode : FERDIZ-afk
 
 
-# Deploy
-
-HEROKU
-[![Deploy-heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FERDIZ-afk/json-webserver)
-
-railway
-[![Deploy-railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FERDIZ-afk%2Fjson-webserver)
-
 # Note
 
 This code can be used for bots / other databases
