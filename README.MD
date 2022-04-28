@@ -3,7 +3,9 @@
 external database json 
 
 original Code: `https://repl.it/@Nurutomo/json-server`
+
 make code : Nurutomo
+
 clone and recode : FERDIZ-afk
 
 
@@ -26,23 +28,22 @@ Example run in app
 
 ``` 
 node . --db 'https://json-server.nurutomo.repl.co/'
-
 ```
 example bot WhatsApp who already support this database
 
 Nurutomo
 ```
-https://github.com/Nurutomo/wabot-aq/'
+https://github.com/Nurutomo/wabot-aq/
 
 ```
 Hisoka-Morou
 ```
-https://github.com/DikaArdnt/Hisoka-Morou'
+https://github.com/DikaArdnt/Hisoka-Morou
 
 ```
 kitagawa-md
 ```
-https://github.com/FERDIZ-afk/kitagawa-md'
+https://github.com/FERDIZ-afk/kitagawa-md
 
 ```
 and others
