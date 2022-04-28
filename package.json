@@ -1,0 +1,21 @@
+{
+  "name": "json-webserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "nodemonConfig": {
+    "ext": "js"
+  },
+  "keywords": [
+    "json-webserver"
+  ],
+  "author": "FERDIZ-afk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0",
+    "nodemon": "^2.0.15"
+  }
+}
