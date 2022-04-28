@@ -2,7 +2,7 @@ FROM nikolaik/python-nodejs:latest
 
 RUN apt-get update && \
   apt-get install -y \
-  neofetch \
+  neofetch && \
   rm -rf /var/lib/apt/lists/*
 
 COPY package.json .
