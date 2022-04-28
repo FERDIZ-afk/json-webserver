@@ -24,17 +24,26 @@ node . --db 'url database'
 
 Example run in app
 
-```node . --db 'https://json-server.nurutomo.repl.co/'
+``` 
+node . --db 'https://json-server.nurutomo.repl.co/'
+
 ```
 example bot WhatsApp who already support this database
 
-```https://github.com/Nurutomo/wabot-aq/blob/master/README.md'
+Nurutomo
 ```
+https://github.com/Nurutomo/wabot-aq/'
 
-```https://github.com/DikaArdnt/Hisoka-Morou'
 ```
+Hisoka-Morou
+```
+https://github.com/DikaArdnt/Hisoka-Morou'
 
-```https://github.com/FERDIZ-afk/kitagawa-md'
+```
+kitagawa-md
+```
+https://github.com/FERDIZ-afk/kitagawa-md'
+
 ```
 and others
 
